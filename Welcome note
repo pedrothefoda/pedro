@@ -1,0 +1,10 @@
+print("###################### Welcome to Pedro's RPG 2.0 ######################")
+print()
+print(" Bem vindo à segunda tentativa de criação de um RPG por Pedro Dantas, agora no github ! ")
+print()
+print("Para mais informações digite 0: ")
+ajuda = int(input())
+print()
+if ajuda == 0:
+print(" Esse jogo está em desenvolvimento estritamente por mim, Pedro Dantas Freitas. Se você tiver alguma dúvida ou sugestão mande-a no meu e-mail: pedrodantas8@yahoo.com ")
+print()
